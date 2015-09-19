@@ -1,0 +1,18 @@
+Ci-dessous les informations concernant l'architecture de la plateforme utilisée:
+
+Raspberry PI B+:
+    OS: Linux raspberrypi 4.1.6+ (Raspbian)
+    Asterisk: 1.8.13.1
+    Openssl: 1.0.1e
+
+Clients SIP:
+    Blink: 1.4.1 (Linux) 1.4.2(Windows)
+
+Tests effectués:
+ Signalis   /    Voix
+------------------------
+    SIP     /    RTP
+    SIP     /    ZRTP
+    TLS     /    RTP
+    TLS     /    ZRTP
+  

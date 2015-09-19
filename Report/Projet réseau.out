@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Project objectives}{}% 1
+\BOOKMARK [1][-]{section.2}{ Why did we not meet all of our objectives ? }{}% 2
+\BOOKMARK [1][-]{section.3}{What we wanted to learn and what we actually learned}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Challenges encountered}{section.3}% 4
+\BOOKMARK [1][-]{section.4}{How did we share the code}{}% 5
+\BOOKMARK [1][-]{section.5}{Communications Analysis : Wireshark to the rescue !}{}% 6
+\BOOKMARK [2][-]{subsection.5.1}{ARP Communications}{section.5}% 7
+\BOOKMARK [2][-]{subsection.5.2}{SIP Communications}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.3}{TLS Encryption}{section.5}% 9
+\BOOKMARK [2][-]{subsection.5.4}{RTP Communications}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.5}{SRTP Communications}{section.5}% 11
